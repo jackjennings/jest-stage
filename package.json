@@ -1,0 +1,29 @@
+{
+  "name": "jest-stage",
+  "version": "1.0.0",
+  "description": "Shared state management for Jest testing framework",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "setup.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jack Jennings",
+  "license": "MIT",
+  "homepage": "https://github.com/jackjennings/jest-stage",
+  "bugs": {
+    "url": "https://github.com/jackjennings/jest-stage/issues"
+  },
+  "devDependencies": {
+    "jest": ">=22.0.0"
+  },
+  "peerDependencies": {
+    "jest": ">=22.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackjennings/jest-stage.git"
+  }
+}
