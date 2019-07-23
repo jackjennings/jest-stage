@@ -17,7 +17,7 @@
     "url": "https://github.com/jackjennings/jest-stage/issues"
   },
   "devDependencies": {
-    "jest": ">=22.0.0"
+    "jest": ">=24.0.0"
   },
   "peerDependencies": {
     "jest": ">=22.0.0"
